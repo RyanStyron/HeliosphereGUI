@@ -1,0 +1,9 @@
+name: HS-GUI
+version: 1.0
+author: RySty
+main: mc.rysty.heliospheregui.HelioSphereGUI
+
+commands:
+  mainmenu:
+    aliases: [serverselector]
+  toggleworld:

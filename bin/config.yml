@@ -1,0 +1,14 @@
+console_error_message: '&b&l>> &cThis command can only be ran by players'
+player_offline_message: '&b&l>> &cCould not find the specified player'
+too_many_args_error: '&b&l>> &cToo many arguments were provided'
+console_player_error_message: '&b&l>> &cYou can only specify an online player'
+no_perm_message: '&b&l>> &cYou do not have permission to do this'
+
+#World
+teleported_world_message: "&b&l>>&7 &7Warping to <world>..."
+ToggleWorld:
+  world_provided_error: "&b&l>>&7 &cThe world provided does not exist"
+  world_maintenance_enabled: "&b&l>>&7 &3<world>&7 has temporarily been closed for maintenance"
+  world_maintenance_disabled: "&b&l>>&7 &3<world>&7 is now open to all players"
+  not_enough_args: "&b&l>>&7 &cNot enough arguments were provided. Correct format: /toggleworld <world>"
+  too_many_args: "&b&l>>&7 &cToo many arguments were provided. Correct format: /toggleworld <world>"
